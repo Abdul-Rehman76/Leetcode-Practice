@@ -16,3 +16,5 @@ class Solution:
                 break
         return is_strict_palindrome
         
+
+print(11%10)
